@@ -1,4 +1,4 @@
- variable "zone_name" {
+variable "record_name" {
 
 }
 
@@ -20,4 +20,7 @@ variable "app_alb_dns_name" {
 variable "app_alb_zone_id" {
 
 }
+
+
+
 
