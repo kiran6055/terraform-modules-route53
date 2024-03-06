@@ -40,3 +40,19 @@ variable "web_alb_zone_id" {
 }
 
 
+
+variable "cdn_alb_zone_id" {
+
+}
+
+
+variable "cdn_alb_dns_name" {
+
+}
+
+
+variable "cdn_record_name" {
+
+}
+
+
